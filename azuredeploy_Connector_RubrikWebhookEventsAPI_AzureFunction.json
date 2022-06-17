@@ -159,7 +159,7 @@
                         "Anomalies_table_name": "[parameters('Anomalies_table_name')]",
                         "RansomwareAnalysis_table_name": "[parameters('RansomwareAnalysis_table_name')]",
                         "ThreatHunts_table_name": "[parameters('ThreatHunts_table_name')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/devradiacrest/armis-sentinel-activities/blob/main/RubrikRansomwareAnalysisEvent.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/devradiacrest/armis-sentinel-activities/blob/main/RSentinelConnector.zip?raw=true"
                     }
                 }
             ]
